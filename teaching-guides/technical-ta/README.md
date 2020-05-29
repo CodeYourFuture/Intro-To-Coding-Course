@@ -48,6 +48,20 @@ Students who have begun working on the FreeCodeCamp content. This group may be s
 {% endtab %}
 {% endtabs %}
 
-More resources are being made available in the following pages for Tech TAs depending on which group they are running. For any further questions, please ask the Lead Instructor as seen on the schedule.  
+More resources are being made available in the following pages for Tech TAs depending on which group they are running. For any further questions, please ask the Lead Instructor as seen on the schedule.
+
+The FreeCodeCamp tutorials cover the following topics:
+
+* Basic HTML and HTML5
+* Basic CSS, Applied Visual Design
+* Applied Accessibility
+* Responsive Web Design Principles
+* CSS Flex box
+
+Tribute Page
+
+The next step for students is to follow these instructions to build a tribute page [https://learn.freecodecamp.org/../build-a-tribute-page](https://learn.freecodecamp.org/../build-a-tribute-page) 
+
+  
 
 
