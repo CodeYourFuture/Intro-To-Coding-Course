@@ -12,6 +12,8 @@ The purpose of the presentation is to introduce students to CodeYourFuture and t
 
 **Presentation**
 
+{% embed url="https://drive.google.com/open?id=1wBm3i7rhDPRD\_oW-oea9eKLG4am3aelHMX5EjNPempM" %}
+
 **Practical Session**
 
 This section will contain an outline of how to run a session using Sololearn and screensharing

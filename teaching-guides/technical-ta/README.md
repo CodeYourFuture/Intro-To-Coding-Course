@@ -8,11 +8,15 @@ On completion of the “Intro to Coding” course students should have learnt:
 * How to build a website from scratch by using the fundamentals of HTML and CSS, including:
   * HTML Basics: introduction, document structure, formatting, lines & comments, elements, attributes, images, links, lists,  tables, forms and input, frames.
   * HTML5: content models, page structure, header, nav & footer, audio and video elements, animation and canvas.
-  * CSS Basics: text, properties, positioning and layout, CSS3, gradients and backgrounds, transitioning & transforms, CSS filter
+  * CSS Basics: text, properties, positioning and layout, CSS3, gradients and backgrounds, transitioning & transforms, CSS filte
 
 ### What have they been working on?
 
 The content in “Intro to Coding” is a steps based process. Students are first invited to do three tutorials \(HTML, CSS, JS\) on the app Sololearn, this is optional but encouraged for students who are completely new to coding. The students must then complete tutorials on FreeCodeCamp on HTML, CSS, and JS basics. Once completed students move on to building a tribute page and a landing page using FreeCodeCamp. 
+
+The coursework appears to students like this:
+
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ### Post-Course Content \(to be updated\)
 
@@ -50,17 +54,7 @@ Students who have begun working on the FreeCodeCamp content. This group may be s
 
 More resources are being made available in the following pages for Tech TAs depending on which group they are running. For any further questions, please ask the Lead Instructor as seen on the schedule.
 
-The FreeCodeCamp tutorials cover the following topics:
 
-* Basic HTML and HTML5
-* Basic CSS, Applied Visual Design
-* Applied Accessibility
-* Responsive Web Design Principles
-* CSS Flex box
-
-Tribute Page
-
-The next step for students is to follow these instructions to build a tribute page [https://learn.freecodecamp.org/../build-a-tribute-page](https://learn.freecodecamp.org/../build-a-tribute-page) 
 
   
 
