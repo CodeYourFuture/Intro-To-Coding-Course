@@ -1,12 +1,9 @@
----
-description: Forthcoming
----
-
 # Motivational Speaker/Ice Breakers
 
-Introduction to the role
+The Motivational Speaker and icebreaker role is an important role. It gives new students an opportunity to hear about your experiences as a CYF student and encourages them to work on the course1 material. 
 
-* 30 mins Total
+Timings: 30 mins total
+
 * 15 minute icebreakers
 * 10 \(ish\) min presentation
 * 5 min Q & A
@@ -14,8 +11,6 @@ Introduction to the role
 ### **Icebreakers**
 
 What are the objectives of an icebreaker?
-
-\*\*\*\*
 
 ### **Motivational Talk**
 
