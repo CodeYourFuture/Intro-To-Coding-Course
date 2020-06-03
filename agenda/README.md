@@ -17,6 +17,8 @@ description: This Agenda is an outline of how the intro to coding workshop will 
 
 ## **Schedule**
 
+**Soft Skills Section**
+
 * 12:45 - 13:00 Volunteers join
 * 13:00 - 13:15 Technical Set up
 * 13:15 - 13:30 Icebreakers
@@ -37,6 +39,8 @@ description: This Agenda is an outline of how the intro to coding workshop will 
 Total time: 4hrs  
 ****
 
-**Note for teaching assistants:** TAs are only required for the section which they have signed up for. I.e. Soft-Skills TAs should arrive just before the class and may leave during the break after the soft-skills session. Technical TAs may arrive during the break before the Q&A \(All TAs are welcome to observe and participate in any extra sessions that they wish\)**.**  
+**Note for teaching assistants:** TAs are only required for the section which they have signed up for. 
+
+I.e. Soft-Skills TAs should arrive just before the class and may leave during the break after the soft-skills session. Technical TAs may arrive during the break before the Q&A \(All TAs are welcome to observe and participate in any extra sessions that they wish\)**.**  
 
 
