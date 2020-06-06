@@ -10,7 +10,7 @@ The Soft Skills lead presents the lesson with the help of TAs during activities.
 
 N.B. When presenting please select the "Share Computer Audio" option on zoom.  
 
-
+Please look over the following slides for the session that you are running. When there is an activity the students will be put in breakout rooms with a Softskills TA. 
 
 ### **Intro to Soft-Skills**
 
