@@ -12,7 +12,7 @@ N.B. When presenting please select the "Share Computer Audio" option on zoom.
 
 Please look over the following slides for the session that you are running. When there is an activity the students will be put in breakout rooms with a Softskills TA. 
 
-### **Intro to Soft-Skills**
+### **Intro to Soft-Skills \(For new students\)**
 
 {% embed url="https://docs.google.com/presentation/d/1MmqatP2kPG\_63H9bsf700sfYnnERGMIOtxC0TexxnAY/edit\#slide=id.g74f8aa7862\_0\_89" caption="Intro to Soft Skills" %}
 
@@ -36,7 +36,7 @@ Please look over the following slides for the session that you are running. When
 
 \*\*\*\*
 
-### **Introduction to Communication**
+### **Introduction to Communication \(For Returners\)**
 
 {% embed url="https://docs.google.com/presentation/d/1avThs7n\_h\_dRS0P8EPoMMQUlJD0hK\_ticyiEDc-\_clI/edit?usp=sharing" caption="Introduction to Communication" %}
 
