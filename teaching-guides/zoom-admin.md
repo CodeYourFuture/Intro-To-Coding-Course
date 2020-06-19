@@ -42,9 +42,20 @@ There may or may not be anything to do here, please check with the volunteer lea
 
 **Soft-Skills session**
 
-During the soft skills session the class will be given a presentation by a soft-skills volunteer and break out into groups to do exercises. These groups can be randomly assigned but should have 4-5 students in them. When setting them up please ensure there is a volunteer in each group. 
+During the soft skills session the class will be given two  presentations by a soft-skills volunteer depending on whether they are returners or it's their first session. 
+
+During these session they will watch a presentation and break out into groups to do exercises. These groups can be randomly assigned but should have 4-5 students in them. When setting them up please ensure there is a volunteer in each group. 
 
 * Make sure you check with the soft Skills presenter how long they want for exercises \(you’re in charge of timings\)
+
+When running 2 soft skills sessions follow these steps:
+
+1. At the start of the soft skills session identify how many students you have as returners and how many you have as new students.
+2. Open up enough rooms to have one breakout room for returners are multiple rooms for new students \(each room should have 5-6 students in it\) plus one extra.
+3. Before opening the rooms check the options to make sure that students can return to the main channel at will \(in options\)
+4. Open the rooms and allow the returners to move to their breakout room, get the new students to practice by moving to their room and then come back to the main room \(use TAs in each room to help them\)
+5. Start the session with the new students in the main room and returners in the breakout room
+6. When it comes to the time for new students to go into breakout rooms for exercises ask them to move to their rooms \(they'll already be assigned\). At the end of their exercise broadcast a message asking them to return and get TAs to help with encouraging them to return. The class with returners should stay in their room for the whole session. 
 
 #### Soft Skills Presentation
 
