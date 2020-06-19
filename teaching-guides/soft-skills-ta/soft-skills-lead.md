@@ -129,3 +129,7 @@ Slide 13 - Ask if there are any ?’s
 
 * Answer any that you can. If you don’t know the answer, say you will find out. Note their name and contact details. End with asking them to complete the feedback form
 
+### Problem Solving
+
+{% embed url="https://docs.google.com/presentation/d/16L3jZlw7YdDwc2GDBOEghPudt7\_CF8Yn\_IF3Xyg41-0/edit?usp=sharing" %}
+
