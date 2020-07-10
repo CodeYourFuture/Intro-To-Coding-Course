@@ -133,3 +133,11 @@ Slide 13 - Ask if there are any ?’s
 
 {% embed url="https://docs.google.com/presentation/d/16L3jZlw7YdDwc2GDBOEghPudt7\_CF8Yn\_IF3Xyg41-0/edit?usp=sharing" %}
 
+### Confidence Building
+
+{% embed url="https://docs.google.com/presentation/d/10OUrWbiBZj2pdXerkMpWLpnQVvTsDCq3Jb37F8Rvepw/edit\#slide=id.p" %}
+
+
+
+
+
