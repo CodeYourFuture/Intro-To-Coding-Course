@@ -44,7 +44,9 @@ There may or may not be anything to do here, please check with the volunteer lea
 
 During the soft skills session the class will be given two  presentations by a soft-skills volunteer depending on whether they are returners or it's their first session. 
 
-During these session they will watch a presentation and break out into groups to do exercises. These groups can be randomly assigned but should have 4-5 students in them. When setting them up please ensure there is a volunteer in each group. 
+At the start of these sessions you will have to create multiple rooms so that there are enough for both class to break out into groups. This needs to be done at the beginning because you can't create more rooms once they are open. 
+
+From there have the Returning students join one breakout room with their Soft Skills lead and the new students stay in the breakout room. The soft skills leads will then need to message you when it is time for an exercise and ask you to move the students into breakout rooms for the duration of the exercise. Please make sure you keep good communications with the soft skills leads
 
 * Make sure you check with the soft Skills presenter how long they want for exercises \(you’re in charge of timings\)
 
