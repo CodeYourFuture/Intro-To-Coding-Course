@@ -28,8 +28,6 @@ After completion of the course we provide the students with a resource pack whic
 
 ## Running a class
 
-Before two technical sessions there is a Q & A session. This is an opportunity for students to ask any questions about what they’ve learnt, next steps and anything else related to the course or working in the tech industry. 
-
 The technical content of the class comes in two blocks. These sessions are designed to give the students the opportunity to work through problems, ask questions and help each other. Following an introduction to the session by the lead instructor the class will split into break-out groups with a TA per group \(the groups will be divided depending on how far students have progressed with the course\). The TAs should encourage students to discuss the challenges they’ve come across, share solutions with each other and work together . The TA can offer guidance and advice when needed but should always try to encourage students to solve questions first. 
 
 N.B. Screen Sharing is a powerful tool. Encourage your students to share their screen to illustrate a challenge and share your screen when demonstrating a concept. 

@@ -5,7 +5,7 @@ The Motivational Speaker and icebreaker role is an important role. It gives new 
 Timings: 30 mins total
 
 * 15 minute icebreakers
-* 10 \(ish\) min presentation
+* 5 \(ish\) min presentation
 * 5 min Q & A
 
 ### **Icebreakers**

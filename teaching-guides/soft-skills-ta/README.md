@@ -4,6 +4,8 @@ description: This is a guide for volunteers teaching soft skills
 
 # Soft Skills TA
 
+## Whilst we are updating the Soft Skills Content this role isn't available
+
 ## Soft Skills Content
 
 The main topics we wish to cover during these sessions are as follows: 

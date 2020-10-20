@@ -6,6 +6,8 @@ description: >-
 
 # Soft Skills Lead
 
+## Whilst we are updating the Soft Skills Content this role isn't available
+
 The Soft Skills lead presents the lesson with the help of TAs during activities. Below are the different class we lead. The Intro to SoftSkills runs every week alongside a more advanced class for returners.  
 
 N.B. When presenting please select the "Share Computer Audio" option on zoom.  

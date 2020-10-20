@@ -40,34 +40,9 @@ If there are any technical issues then work with other volunteers to rectify the
 
 There may or may not be anything to do here, please check with the volunteer leading the icebreaker.
 
-**Soft-Skills session**
+**Technical lesson Set-up**
 
-During the soft skills session the class will be given two  presentations by a soft-skills volunteer depending on whether they are returners or it's their first session. 
-
-At the start of these sessions you will have to create multiple rooms so that there are enough for both class to break out into groups. This needs to be done at the beginning because you can't create more rooms once they are open. 
-
-From there have the Returning students join one breakout room with their Soft Skills lead and the new students stay in the breakout room. The soft skills leads will then need to message you when it is time for an exercise and ask you to move the students into breakout rooms for the duration of the exercise. Please make sure you keep good communications with the soft skills leads
-
-* Make sure you check with the soft Skills presenter how long they want for exercises \(you’re in charge of timings\)
-
-When running 2 soft skills sessions follow these steps:
-
-1. At the start of the soft skills session identify how many students you have as returners and how many you have as new students.
-2. Open up enough rooms to have one breakout room for returners are multiple rooms for new students \(each room should have 5-6 students in it\) plus one extra.
-3. Before opening the rooms check the options to make sure that students can return to the main channel at will \(in options\)
-4. Open the rooms and allow the returners to move to their breakout room, get the new students to practice by moving to their room and then come back to the main room \(use TAs in each room to help them\)
-5. Start the session with the new students in the main room and returners in the breakout room
-6. When it comes to the time for new students to go into breakout rooms for exercises ask them to move to their rooms \(they'll already be assigned\). At the end of their exercise broadcast a message asking them to return and get TAs to help with encouraging them to return. The class with returners should stay in their room for the whole session. 
-
-#### Soft Skills Presentation
-
-{% embed url="https://docs.google.com/presentation/d/1MmqatP2kPG\_63H9bsf700sfYnnERGMIOtxC0TexxnAY/edit\#slide=id.g74f8aa7862\_0\_89" %}
-
-
-
-**Break**
-
-During breaks bring everyone back into the main room. Before students are sent out to their groups please ask students to rename themselves according to their progress in ‘intro to coding’ they should be divided into the following groups \(depending on numbers\):
+Before students are sent out to their groups please ask students to rename themselves according to their progress in ‘intro to coding’ they should be divided into the following groups \(depending on numbers\):
 
 * Completely new, has not started
 * Sololearn 1; Has completed a Sololearn tutorial
@@ -76,15 +51,11 @@ During breaks bring everyone back into the main room. Before students are sent o
 
 At this point technical volunteers should have joined if they hadn’t at the start
 
-**Question and Answer**
-
-This is an opportunity for everyone to ask questions. Use this time to set up the technical session rooms and make sure people are going to the right room. 
-
 **Technical Session**
 
 During the technical session there will be multiple groups split up as above, before sending students and volunteers to rooms tell them that if their room is the wrong one for their level to leave the room and return to the main room. If possible remain in the main room to redirect students who drop out of the room or lose connection and have to rejoin the call. If not possible then remember to check the breakout rooms list to see if anyone is 'unassigned'
 
-**Break 2**
+**Break** 
 
 During breaks bring everyone back into the main room
 
