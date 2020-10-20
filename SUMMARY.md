@@ -10,8 +10,6 @@
 ## Teaching Guides
 
 * [Motivational Speaker/Ice Breakers](teaching-guides/motivational-speaker-ice-breakers.md)
-* [Soft Skills TA](teaching-guides/soft-skills-ta/README.md)
-  * [Soft Skills Lead](teaching-guides/soft-skills-ta/soft-skills-lead.md)
 * [Technical TA](teaching-guides/technical-ta/README.md)
   * [New Starters](teaching-guides/technical-ta/newcomers.md)
   * [Step 1 - Sololearn](teaching-guides/technical-ta/step-1-sololearn.md)
