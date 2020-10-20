@@ -19,11 +19,11 @@ description: This Agenda is an outline of how the intro to coding workshop will 
 
 **Soft Skills Section**
 
-13:00 - 13:10 Technical Set up
-13:10 - 13:35 Ice Breaker and Student Talk
-13:35 - 14:10 Technical session
-14:10 - 14:20 Break
-14:20 - 15:00 Technical session'
+*13:00 - 13:10 Technical Set up
+*13:10 - 13:35 Ice Breaker and Student Talk
+*13:35 - 14:10 Technical session
+*14:10 - 14:20 Break
+*14:20 - 15:00 Technical session'
 
 Total time: 2hrs  
 ****
