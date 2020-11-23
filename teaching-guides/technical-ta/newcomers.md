@@ -8,7 +8,11 @@ description: >-
 
 New Starters and students who are attending a workshop without having begun any of the coursework. This is absolutely fine although we do encourage students to work on the coursework before attending. This session is split into two activities; a presentation and a practical session.
 
-The purpose of the presentation is to introduce students to CodeYourFuture and the Intro to Coding course, demonstrating how to register \(some students may have already done this\), what steps there are to complete the course, and how to get support. The practical session will introduce students to Sololearn and give students an opportunity to work together with the support of a TA on these first steps. Before starting the practical session, spend 10-15minutes registering all new students that have not signed-up.  
+The purpose of the presentation is to introduce students to CodeYourFuture and the Intro to Coding course, demonstrating how to register \(some students may have already done this\), what steps there are to complete the course, and how to get support. The practical session will introduce students to Sololearn and give students an opportunity to work together with the support of a TA on these first steps. 
+
+**Registering new student**
+
+Before starting the practical session, Get all new students to screenshare and spend 10-15minutes registering everyone that have not signed up on the website: [https://codeyourfuture.io/](https://codeyourfuture.io/)  
 
 **Presentation**
 
