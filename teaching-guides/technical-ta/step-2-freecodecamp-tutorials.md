@@ -22,7 +22,7 @@ This group should answer any questions students have come up with during the tut
 
 Students need 160 points to complete this step. 
 
-If student need more help then they can go to to the Applicant's Slack channel where there will be volunteers who will assist them with the coursework.
+If student need more help after the session they can go to the Applicant's Slack channel where there will be volunteers who will assist them with the application process. 
 
 
 
