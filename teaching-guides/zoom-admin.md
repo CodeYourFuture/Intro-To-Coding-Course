@@ -70,6 +70,7 @@ Send everyone back to the rooms they were in unless any ask to go to new rooms. 
 3. Broadcast announcements to breakout rooms to give warnings before closing breakout rooms. 
 4. If you make someone else host you need to ask them to make you a co-host and vice-versa. 
 5. It is always helpful to create extra breakout rooms even if you don’t use them as you can’t make new ones whilst some are open. \(They may be useful for volunteers needing to solve problems 1 on 1\).
+6. Remind students that they need to register online to get the best out the ITC workshop on the day. 
 
 **For any further questions, please ask the Lead Instructor as seen on the schedule.**  
 
