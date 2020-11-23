@@ -35,7 +35,7 @@ Students should be split into groups depending on how far they have progressed o
 
 | Progress in Course | Breakout Room Name |
 | :--- | :--- |
-| Newcomer/No Progress | New |
+| Newcomers/No Progress | New |
 | Completed 1+ Sololearn Tutorials | SL |
 | Has started FreeCodeCamp Tutorials | FCC 1 |
 | Has completed all FCC tutorials | FCC 2 |

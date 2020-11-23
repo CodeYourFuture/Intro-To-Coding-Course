@@ -19,5 +19,5 @@ The purpose of the presentation is to introduce students to CodeYourFuture and t
 This section will contain an outline of how to run a session using Sololearn and screensharing
 
 * Volunteers should encourage students to ask and answer questions
-* We still expect students to do this by themselves in order to submit the links on their profiles. THis is a method for introducing students to the ItC process.
+* We still expect students to do this by themselves in order to submit the links on their profiles. This is a method for introducing students to the ITC process.
 

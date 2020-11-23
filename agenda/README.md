@@ -11,9 +11,10 @@ description: This Agenda is an outline of how the intro to coding workshop will 
 ## **Goals:**
 
 1. Introduce students to CodeYourFuture and our way of operating 
-2. Provide a supportive environment for students where they can work together to enhance their learning
-3. Students are empowered to support each other
-4. No volunteers dominate discussions or learning opportunities 
+2. Register New students on CodeYourFuture website: [https://codeyourfuture.io/](https://codeyourfuture.io/)
+3. Provide a supportive environment for students where they can work together to enhance their learning
+4. Students are empowered to support each other
+5. No volunteers dominate discussions or learning opportunities 
 
 ## **Schedule**
 

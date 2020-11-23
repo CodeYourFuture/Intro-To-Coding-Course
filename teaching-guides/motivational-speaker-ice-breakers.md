@@ -16,7 +16,7 @@ What are the objectives of an icebreaker?
 
 What is the objective of the motivational talk?
 
-* Share you experience
+* Share your experience
 * Encourage students to pursue a CYF course
 * Emphasise with students who are in the same position you were before the course
 

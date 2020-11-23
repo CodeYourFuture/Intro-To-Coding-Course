@@ -38,7 +38,9 @@ Whilst in breakout rooms TAs will be responsible for supporting a small group of
 
 {% tabs %}
 {% tab title="New Starters" %}
-Students who have not progressed on course content and need support getting started.
+Students who have registered and not progressed on the course content and need support getting started. 
+
+New students who have not signed up and need your help with the registration process. 
 {% endtab %}
 
 {% tab title="Sololearn" %}
