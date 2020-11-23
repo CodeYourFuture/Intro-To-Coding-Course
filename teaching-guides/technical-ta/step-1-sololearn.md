@@ -14,7 +14,7 @@ The three Sololearn tutorials are:
 
 This group should answer any questions students have come up with during the tutorials. Work through the three topics on Sololearn and ask questions to prompt discussion and boost understanding. Screensharing on sololearn.com \(you will need to register an account\) or live coding are valuable way to explain concepts in an engaging and interactive way. 
 
-Once the workshop ends, direct student's to go on the Slack channel where volunteers will help them with the application process.
+Once the workshop ends, direct student's to the Applicant's Slack channel where volunteers will help them with application process.
 
 
 
