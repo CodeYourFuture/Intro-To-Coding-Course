@@ -13,6 +13,7 @@ You may know that you can type a capital letter (for example: A, B, C) by turnin
 There is a faster way of typing capital letters:
 
 - Open an application where you can type some text
+  - Some examples: Google Docs, Word, VS Code
 - Press the Shift key and the T key at the same time
 
 *You should have typed a capital T.*
