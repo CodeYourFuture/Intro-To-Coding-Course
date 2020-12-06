@@ -29,7 +29,7 @@ Make sure you use the Shift key to insert capital letters.
 
 You may have copied or pasted text by right-clicking, then clicking the Copy or Paste buttons:
 
-[Copy menu](./copy-menu.png)
+![Copy menu](./copy-menu.png)
 
 There are keyboard shortcuts to make copying and pasting faster:
 
@@ -59,17 +59,17 @@ In the previous chapter, you selected some text using your mouse. There is also 
 
 *The letter e at the end of the line will be selected*
 
-[Selection exercise 1](./selection-1.png)
+![Selection exercise 1](./selection-1.png)
 
 - Still holding the Shift key down, press the Left Arrow key another 6 times
 
 *Now the word Future will be selected*
 
-[Selection exercise 2](./selection-2.png)
+![Selection exercise 2](./selection-2.png)
 
 - Stop holding down the Shift key down and move the cursor to the beginning of the line
 - Hold down the Shift key again, and press the Right Arrow key 5 times
 
 *Now the word Hello will be selected*
 
-[Selection exercise 3](./selection-3.png)
+![Selection exercise 3](./selection-3.png)
