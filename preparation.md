@@ -10,7 +10,7 @@ Once you've signed up to help with a session please make sure you've done the fo
 * Read over any additional material listed below for your specific role
 * Ask any questions in the \#introtocoding-workshop channel or ask @Barnaby Dathan or email me at barnaby@codeyourfuture.io
 
-Frequently Asked Questions
+**Frequently Asked Questions from Students**
 
 During these sessions you'll receive lots of questions about all things CodeYourFuture - Don't Panic! ... If you don't know the answer to a question you have a few options:
 
