@@ -6,7 +6,7 @@ description: >-
 
 # Step 3 & 4 - Tribute and Landing pages
 
-The next step for students is to follow these instructions to build a tribute page [https://learn.freecodecamp.org/../build-a-tribute-page](https://learn.freecodecamp.org/../build-a-tribute-page) 
+The next step for students is to follow these instructions to build a tribute page [https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page](https://learn.freecodecamp.org/../build-a-tribute-page) 
 
 These students have completed all of the tutorials up until this point and have started working with more freedom and range. This is a great opportunity to encourage students to be curious and challenge themselves. 
 
