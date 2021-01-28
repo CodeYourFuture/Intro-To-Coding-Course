@@ -16,7 +16,7 @@ The content in “Intro to Coding” is a steps based process. Students are firs
 
 The coursework appears to students like this:
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29%20%281%29.png)
 
 ### Post-Course Content \(to be updated\)
 
