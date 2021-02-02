@@ -52,29 +52,6 @@ description: This page contains the different roles available to volunteers
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Soft Skills Teaching Assistant (2+)</td>
-      <td style="text-align:left">Delivers soft skills content and supports students in teams to work on
-        tasks</td>
-      <td style="text-align:left">
-        <ul>
-          <li>Some soft-skills knowledge</li>
-          <li>Supportive and empathetic</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Soft Skills Lead (1)</td>
-      <td style="text-align:left">Presents soft skills presentation leading session on intro to soft skills
-        supported by TAs</td>
-      <td style="text-align:left">
-        <p></p>
-        <ul>
-          <li>Some soft-skills knowledge</li>
-          <li>Comfortable presenter</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
       <td style="text-align:left">Motivational Speaker (1)</td>
       <td style="text-align:left">A student or graduate who delivers content on the benefits of this course
         and the opportunities offered. Leads icebreakers.</td>
