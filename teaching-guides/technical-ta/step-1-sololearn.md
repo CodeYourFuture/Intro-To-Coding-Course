@@ -1,20 +1,25 @@
 ---
-description: 'Students who have been working on Sololearn (HTML, CSS & JS)'
+description: Students who have been working on Google Grasshopper Fundamentals
 ---
 
-# Step 1 - Sololearn
+# Step 1 - Grasshopper
 
-Students in the Sololearn group should have ideally submitted at least one tutorial. 
+### Step 1
 
-The three Sololearn tutorials are:
+* Create an account on [Google Grasshopper](https://grasshopper.app/)
+* Complete the course named [Fundamentals ](https://grasshopper.app/curriculum/fundamentals-1/)
+* Complete the course named [Fundamentals 2](https://grasshopper.app/curriculum/fundamentals-2/)
+* Click the green download button. Download your pdf certificates and submit them to the dashboard.
 
-* HTML Fundamental
-* CSS Fundamentals
-* Javascript Tutorial
+Students in this group should have completed Grasshopper Fundamentals 1 
 
-This group should answer any questions students have come up with during the tutorials. Work through the three topics on Sololearn and ask questions to prompt discussion and boost understanding. Screensharing on sololearn.com \(you will need to register an account\) or live coding are valuable way to explain concepts in an engaging and interactive way. 
+Grasshopper is available on your phone or desktop. Register an account and click through the courses. It takes around 20 minutes for a developer to complete each course. For learners, it could take ten times longer.
 
-Once the workshop ends, remind student's that they can get further help with the Sololearn material on the Applicant's Slack channel. On the channel there will be volunteers who can answer their questions and help them with the coursework.
+This group should answer any questions students have come up with during the tutorials. Log in to the app and share your screen. Work through problems in the group as a team. Talk through the problem while live coding \(it's just clicking mostly in the Grasshopper IDE\) and then ask your team to screenshare and code along.
+
+Live coding is a valuable way to explain concepts in an engaging and interactive way.  
+
+Once the workshop ends, remind participants that they can get further help with the Grasshopper material on the ITD Slack channel. On the channel there will be volunteers who can answer their questions.
 
 
 

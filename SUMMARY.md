@@ -12,7 +12,7 @@
 * [Motivational Speaker/Ice Breakers](teaching-guides/motivational-speaker-ice-breakers.md)
 * [Technical TA](teaching-guides/technical-ta/README.md)
   * [New Starters](teaching-guides/technical-ta/newcomers.md)
-  * [Step 1 - Sololearn](teaching-guides/technical-ta/step-1-sololearn.md)
+  * [Step 1 - Grasshopper](teaching-guides/technical-ta/step-1-sololearn.md)
   * [Step 2 - FreeCodeCamp Tutorials](teaching-guides/technical-ta/step-2-freecodecamp-tutorials.md)
   * [Step 3 & 4 - Tribute and Landing pages](teaching-guides/technical-ta/step-3-and-4-tribute-and-landing-pages.md)
 * [Zoom Admin](teaching-guides/zoom-admin.md)
