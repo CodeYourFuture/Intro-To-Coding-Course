@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Intro To Coding](README.md)
+* [Intro To Digital](README.md)
 * [Teaching with CodeYourFuture](teaching-with-codeyourfuture.md)
 * [Preparation](preparation.md)
 * [Agenda](agenda/README.md)
@@ -17,4 +17,3 @@
   * [Step 3 & 4 - Tribute and Landing pages](teaching-guides/technical-ta/step-3-and-4-tribute-and-landing-pages.md)
 * [Zoom Admin](teaching-guides/zoom-admin.md)
 * [Lead Trainer](teaching-guides/lead-trainer.md)
-

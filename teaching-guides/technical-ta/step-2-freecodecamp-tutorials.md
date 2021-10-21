@@ -8,7 +8,7 @@ The FreeCodeCamp tutorials cover the following topics found at [https://www.free
 
 This group should answer any questions students have come up with during the tutorials. If students don't have questions or they have all been answered, work through the topics on in the responsive web design and ask questions to prompt discussion and boost understanding. You can start from the beginning or from part way along, gauge the progress students have made and try and pick a point which is interesting for the group.
 
-Screensharing \(you will need to register an account on FCC\) or live coding are valuable way to explain concepts in an engaging and interactive way.  
+Screensharing (you will need to register an account on FCC) or live coding are valuable way to explain concepts in an engaging and interactive way. &#x20;
 
 * Basic HTML and HTML5
   * [https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
@@ -22,9 +22,7 @@ Screensharing \(you will need to register an account on FCC\) or live coding are
 * CSS Flex box
   * [https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/](https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/)
 
-Students need 160 points to complete this step. 
+Students need 160 points to complete this step.&#x20;
 
-If student need more help after the session they can go to the Intro to Coding channel on Slack. There students can ask volunteers who can help them with the FreeCodeCamp material and answer questions about the coursework. 
-
-
+If student need more help after the session they can go to the Intro to Coding channel on Slack. There students can ask volunteers who can help them with the FreeCodeCamp material and answer questions about the coursework.&#x20;
 

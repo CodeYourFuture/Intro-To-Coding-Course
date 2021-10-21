@@ -20,6 +20,5 @@ At CodeYourFuture we believe in empowering our students by providing them with t
 * Be positive; build on students’ successes.
 * Be patient and understanding; students on this course come from a variety of backgrounds and it may take some longer than others to accomplish tasks.
 * Encourage self-learning and teamwork; students should be encouraged to work together to solve problems, these skills are vital for long-term success.
-* Praise and support; the main objective of the intro to coding course is to build the confidence of students and show them that they are capable of learning these skills. 
+* Praise and support; the main objective of the intro to coding course is to build the confidence of students and show them that they are capable of learning these skills.&#x20;
 * Encourage everybody to talk, leaving questions open to answer will lead to only a few participants dominating the conversation. Try to encourage everybody to participate by inviting individuals to answer direct questions.
-
