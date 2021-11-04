@@ -1,6 +1,6 @@
 # Motivational Speaker/Ice Breakers
 
-The Motivational Speaker and icebreaker role is an important role. It gives new students an opportunity to hear about your experiences as a CYF student and encourages them to work on the course1 material.&#x20;
+The Motivational Speaker and icebreaker role is an important role. It gives new applicants an opportunity to hear about your experiences as a CYF trainee and encourages them to work on the course material.&#x20;
 
 Timings: 30 mins total
 
@@ -12,13 +12,17 @@ Timings: 30 mins total
 
 What are the objectives of an icebreaker?
 
+* Allow everyone a chance to introduce themselves
+* Allow everyone a chance to speak
+* Allow the group to learn something about what they have in common
+
 ### **Motivational Talk**
 
 What is the objective of the motivational talk?
 
 * Share your experience
-* Encourage students to pursue a CYF course
-* Emphasise with students who are in the same position you were before the course
+* Encourage trainees to pursue a CYF course
+* Empathise with trainees who are in the same position you were before the course
 
 A presentation isn't obligatory but can help pace your presentation and keep the audience engaged.
 
